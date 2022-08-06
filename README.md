@@ -18,6 +18,6 @@
 
 ---
 
-<p align = 'center'> 📌 코딩알려주는누나 님의 강의 수강 중 따라 친 코드입니다. </p>
+<p align = 'center'> 📌 출처 : 코딩알려주는누나 </p>
 
 <p align = 'center'> [출처](https://codingnoona.thinkific.com/enrollments) </p>
